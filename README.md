@@ -32,3 +32,22 @@ Ce module Prestashop permet de calculer le tonnage (poids) de gravier nécessair
 ## Screenshot
 
 ![screenshot](screenshot.jpg)
+
+## Crédits
+
+### Answeb - Développement du plugin
+
+Ce plugin a été développé par [Answeb](https://www.answeb.net), agence spécialisée dans le développement web et les
+solutions e-commerce. Answeb accompagne les entreprises dans leur transformation digitale en créant des solutions
+sur-mesure adaptées à leurs besoins spécifiques.
+
+**Expertise Answeb :**
+
+- Développement WordPress & WooCommerce, Prestashop
+- Intégrations ERP et solutions métier
+- Connecteurs et API personnalisés
+- Solutions e-commerce avancées
+
+Pour toute question technique ou demande d'évolution du plugin, vous pouvez contacter l'équipe Answeb via notre
+site web.
+
