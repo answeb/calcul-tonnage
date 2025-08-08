@@ -28,3 +28,7 @@ Ce module Prestashop permet de calculer le tonnage (poids) de gravier nécessair
 2. Attribuez cette caractéristique à tous les produits concernés avec la valeur de densité appropriée
 3. Dans la configuration du module, sélectionnez cette caractéristique
 4. Le bouton de calcul de tonnage apparaîtra sur les pages des produits ayant une densité définie
+
+## Screenshot
+
+![screenshot](screenshot.jpg)
