@@ -1,0 +1,2 @@
+{if isset($weight)}<meta property="product:attribute-weight:value" content="{$weight}">{/if}
+{if isset($product.weight_unit)}<meta property="product:attribute-weight:units" content="{$product.weight_unit}">{/if}

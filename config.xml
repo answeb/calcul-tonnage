@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>calcultonnage</name>
+    <displayName><![CDATA[Calcul de tonnage]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Calculer le tonnage de gravier en fonction de la surface, de l'épaisseur et de la densité du produit]]></description>
+    <author><![CDATA[Answeb]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>
