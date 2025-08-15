@@ -2,6 +2,9 @@
 
 Ce module Prestashop permet de calculer le tonnage (poids) de gravier nécessaire en fonction de la surface et de l'épaisseur désirée, pour des produits dont la densité est spécifiée.
 
+
+![PHP 8.2](https://img.shields.io/badge/php-8.2-lemon) ![Prestashop 8](https://img.shields.io/badge/prestashop-8.0-lemon) ![Bootstrap 4](https://img.shields.io/badge/bootstrap-4-lemon)
+
 ## Fonctionnalités
 
 - Affiche un bouton "Calcul de tonnage" sur les pages produit
